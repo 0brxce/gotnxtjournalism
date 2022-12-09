@@ -19,7 +19,7 @@ function updateTime() {
         time--;
     } else {
         clearInterval(timing);
-        setTimeout(alert("You had next... YOU ARE NOW \n 🏋️💪😤 \n The machine you reserved is available"), 1000);
+        setTimeout(alert("You had next... YOU ARE NOW \n 🏋️💪😤 \n The machine you reserved is available"), 2000);
     }
 }
 
